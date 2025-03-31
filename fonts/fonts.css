@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'ZingRustDemo-Base';
+    src: url('./ZingRustDemo-Base.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('./Gilroy-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'WorkSans';
+    src: url('./Gilroy-Regular.ttf') format('truetype');
+}
